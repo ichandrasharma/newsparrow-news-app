@@ -10,9 +10,10 @@
 <br>
 
 ## Output for brief
-![output](output/Screenshot (33).png)
-![output](output/Screenshot (34).png)
-![output-responsive](output/Screenshot (35).png)
+<img src="/output/Screenshot (33).png" alt="output" />
+<img src="/output/Screenshot (34).png" alt="output" />
+<img src="/output/Screenshot (35).png" alt="output-responsive" />
+
 
 
 <br>
